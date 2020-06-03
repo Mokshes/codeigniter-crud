@@ -2,5 +2,5 @@
 codeigniter crud operation
 with 3 table
 category,
-sub category,
+sub category
 and product
